@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="boletin2_5EjCod:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/boletin2_5EjCod_jar</output-path>
+    <root id="archive" name="boletin2_5EjCod.jar">
+      <element id="module-output" name="boletin2_5EjCod" />
+    </root>
+  </artifact>
+</component>
